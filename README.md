@@ -10,8 +10,12 @@ This script gives you control over your past contribution history on GitHub. Her
 ### Fill Missed Contributions 🗓️
 You can easily fill in days where you might have forgotten to commit or had a gap in your activity. This helps in maintaining a consistent-looking contribution graph.
 
+![Busy Contribution Graph](./screenshots/busy_contribution_graph.png)
+
 ### Draw Patterns on Your Graph 🎨
 Beyond just filling in gaps, with careful planning of your `date.txt` file, you can even "draw" patterns or shapes on your contribution graph by strategically placing commits on specific dates.
+
+![Visual Contribution Graph](./screenshots/visual_contribution_graph.png)
 
 ## Setup ⚙️
 Before you begin, make sure you have:
